@@ -1,4 +1,4 @@
-name: Build-FanchmWrt-MT7621
+name: Build-FanchmWrt-opMT7621
 on:
   repository_dispatch:
   workflow_dispatch:
