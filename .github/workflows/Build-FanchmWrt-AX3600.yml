@@ -6,8 +6,8 @@ permissions:
   contents: write
   actions: write
 env:
-  REPO_URL: https://github.com/fanchmwrt/fanchmwrt/
-  REPO_BRANCH: fanchmwrt-24.10.4
+  REPO_URL: https://github.com/h70076000/openwrt6/
+  REPO_BRANCH: openwrt-19.07
   FEEDS_CONF: FanchmWrt/feeds.conf.default
   CONFIG_FILE: FanchmWrt/fanchmwrtax3600.config
   DIY_P1_SH: FanchmWrt/diy-part1.sh
