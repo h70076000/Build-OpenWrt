@@ -9,7 +9,7 @@ env:
   REPO_URL: https://github.com/h70076000/openwrt6/
   REPO_BRANCH: openwrt-19.07
   FEEDS_CONF: FanchmWrt/7620feeds.conf.default
-  CONFIG_FILE: FanchmWrt/ma1210.config
+  CONFIG_FILE: FanchmWrt/fanchmwrtax3600.config
   DIY_P1_SH: FanchmWrt/diy-part1.sh
   DIY_P2_SH: FanchmWrt/diy-part2.sh
   PLUGINS_FILE: FanchmWrt/plugins.txt
