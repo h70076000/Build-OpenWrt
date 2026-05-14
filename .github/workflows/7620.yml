@@ -6,7 +6,7 @@ permissions:
   contents: write
   actions: write
 env:
-  REPO_URL: https://github.com/h70076000/openwrt6/
+  REPO_URL: https://github.com/openwrt/openwrt
   REPO_BRANCH: openwrt-19.07
   FEEDS_CONF: FanchmWrt/7620feeds.conf.default
   CONFIG_FILE: FanchmWrt/1210.config
