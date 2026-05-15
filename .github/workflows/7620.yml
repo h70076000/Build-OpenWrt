@@ -12,7 +12,6 @@ env:
   CONFIG_FILE: FanchmWrt/1210.config
   DIY_P1_SH: FanchmWrt/diy-part1.sh
   DIY_P2_SH: FanchmWrt/diy-part2.sh
-  PLUGINS_FILE: FanchmWrt/plugins.txt
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
