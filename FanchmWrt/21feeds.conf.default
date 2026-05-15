@@ -3,6 +3,7 @@ src-git-full luci https://git.openwrt.org/project/luci.git;openwrt-21.02
 src-git-full routing https://git.openwrt.org/feed/routing.git;openwrt-21.02
 src-git-full telephony https://git.openwrt.org/feed/telephony.git;openwrt-21.02
 src-git hxzn https://github.com/h70076000/openwrt-packages
+src-git argon https://github.com/sbwml/luci-theme-argon/tree/openwrt-22.03/luci-theme-argon
 #src-git ddnsgo  https://github.com/sirpdboy/luci-app-ddns-go.git
 #src-git watchdog https://github.com/sirpdboy/luci-app-watchdog.git
 #src-git lucky https://github.com/gdy666/luci-app-lucky.git
