@@ -7,7 +7,7 @@ permissions:
   actions: write
 env:
   REPO_URL: https://github.com/h70076000/openwrt6/
-  REPO_BRANCH: fanchmwrt-21.02
+  REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: FanchmWrt/feeds.conf.default
   CONFIG_FILE: FanchmWrt/mt7621.config
   DIY_P1_SH: FanchmWrt/diy-part1.sh
