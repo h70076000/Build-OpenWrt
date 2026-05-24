@@ -1,4 +1,4 @@
-name: Build-FanchmWrt-GHL
+name: Build-FanchmWrt-WR1200
 on:
   repository_dispatch:
   workflow_dispatch:
