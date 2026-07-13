@@ -9,7 +9,7 @@ env:
   REPO_URL: https://github.com/h70076000/openwrt6/
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: FanchmWrt/21feeds.conf.default
-  CONFIG_FILE: FanchmWrt/tl473g.config
+  CONFIG_FILE: FanchmWrt/qca9533.config
   DIY_P1_SH: FanchmWrt/diy-part1.sh
   DIY_P2_SH: FanchmWrt/diy-part2.sh
   PLUGINS_FILE: FanchmWrt/plugins.txt
