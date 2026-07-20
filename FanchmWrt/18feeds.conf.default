@@ -3,7 +3,6 @@ src-git luci https://git.openwrt.org/project/luci.git;openwrt-18.06
 src-git routing https://git.openwrt.org/feed/routing.git;openwrt-18.06
 src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-18.06
 src-git freifunk https://github.com/freifunk/openwrt-packages.git;openwrt-18.06
-src-git hxzn https://github.com/h70076000/hxzn-package
 #src-git ddnsgo  https://github.com/jerrykuku/luci-theme-argon.git;18.06
 #src-git watchdog https://github.com/sirpdboy/luci-app-watchdog.git
 #src-git lucky https://github.com/gdy666/luci-app-lucky.git
